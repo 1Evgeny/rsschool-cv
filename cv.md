@@ -2,11 +2,11 @@
 
 ### Contact Info
 
-**City:** *Minsk, Belarus* 
-**Mobile phone:** *+375 29 549-40-13*
-**LinkedIn:** *https://www.linkedin.com/in/evgeny-vorokhobko-a71a75150/*
-**GitHub:** *https://github.com/1Evgen*
-**E-mail:** *evgeny.vorokhobko@gmail.com*
+* **City:** *Minsk, Belarus* 
+* **Mobile phone:** *+375 29 549-40-13*
+* **LinkedIn:** *https://www.linkedin.com/in/evgeny-vorokhobko-a71a75150/*
+* **GitHub:** *https://github.com/1Evgen*
+* **E-mail:** *evgeny.vorokhobko@gmail.com*
 
 ### Summary
 *To gain an experience in the team of professionals with interesting projects that will help me to become one of them.  Later on, I'd like to share my experience with beginners.*
@@ -38,15 +38,15 @@ var isAnagram = function(test, original) {
 *Watched videos on YouTube - JavaScript for example: *
 
 ### Education
-*Military Space Academy” in St. Petersburg
+* *Military Space Academy” in St. Petersburg
 Specialist’s degree; Airphotogeodesy Engineer
 (2009 - 2014)*
 
-*JavaRush.ru – Java Core*
+* *JavaRush.ru – Java Core*
 
-*Job4j.ru*
+* *Job4j.ru*
 
-*Stepik.org*
+* *Stepik.org*
 
 ### English
-*Pre-Intermediate+*
+* *Pre-Intermediate+*
