@@ -1,0 +1,31 @@
+img {
+    height: 250px;
+    width: auto;
+    border-radius: 100px;
+    border: 3px solid black;
+    box-shadow: 0 0 7px #666;
+}
+
+.contactInfo {
+    padding: 40px;
+}
+
+.textSkill {
+    margin: 0;
+}
+.layout {
+    width: 100%;
+}
+
+TD {
+    vertical-align: top;
+    padding: 5px;
+}
+
+.leftcol {
+    width: 200px;
+}
+
+.spacer {
+    width: 10px;
+}
